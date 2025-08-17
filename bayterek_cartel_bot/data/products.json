@@ -1,0 +1,31 @@
+{
+    "product_1": {
+        "name": "Индика",
+        "photo": "https://placehold.co/600x400/000000/FFFFFF?text=Indica",
+        "description": "Классическая индика для глубокого расслабления и спокойствия.",
+        "weights": {
+            "1": 1500,
+            "2": 2800,
+            "5": 6000
+        }
+    },
+    "product_2": {
+        "name": "Сатива",
+        "photo": "https://placehold.co/600x400/555555/FFFFFF?text=Sativa",
+        "description": "Бодрящая сатива для креативности и энергии.",
+        "weights": {
+            "1": 1600,
+            "2": 3000,
+            "5": 6500
+        }
+    },
+    "product_3": {
+        "name": "Гибрид",
+        "photo": "https://placehold.co/600x400/AAAAAA/FFFFFF?text=Hybrid",
+        "description": "Идеальный баланс между индикой и сативой.",
+        "weights": {
+            "2": 2900,
+            "4": 5500
+        }
+    }
+}
